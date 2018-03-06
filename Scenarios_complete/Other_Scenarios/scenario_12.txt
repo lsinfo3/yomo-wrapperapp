@@ -1,0 +1,35 @@
+# '#' Denotes the line as a comment
+# Structure is as follows:
+# (Time between events):(Eventtype):(Event parameter)
+# Eventtypes are: 	'qc': Quality change (given as increments from 1 to 5)
+#				  	'bw/pl/dl': Bandwidth/Packetloss/Delay (parameter is directly passed through to 'tc' command)
+# Time can be randomized at runtime: 'rnd{start, end}'
+# stq = Starting Quality
+
+#DASH-IF Network profile 2e (Table 5)
+#same as scenario 11 but changed duration of each stage
+stq:Auto
+120:bw:5000kbit
+0:dl:11ms
+0:pl:1%
+40:bw:4000kbit
+0:dl:13ms
+0:pl:1.25%
+40:bw:3000kbit
+0:dl:15ms
+0:pl:1.5%
+40:bw:2000kbit
+0:dl:20ms
+0:pl:1.75%
+40:bw:1500kbit
+0:dl:25ms
+0:pl:2%
+40:bw:2000kbit
+0:dl:20ms
+0:pl:1.75%
+40:bw:3000kbit
+0:dl:15ms
+0:pl:1.5%
+40:bw:4000kbit
+0:dl:13ms
+0:pl:1.25%
