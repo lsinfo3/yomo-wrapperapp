@@ -1,16 +1,18 @@
-# QoE Monitoring of the Native Android YouTube App
-## A Wrapper for Automated Measurements with YouTube’s Native App (YoMo Wrapper App)
-A measurement application to measure the native YouTube app for smartphones from the Google Play Store. Among other things, the current quality and playing time is read from the app and written in a log file.
+# A Wrapper App for Automated Measurements with YouTube’s Native Mobile App (YoMo Wrapper App)
+## Monitoring of the Native Android YouTube App
+A measurement application to measure the native YouTube mobile app in Google Play Store for Android smartphones. Among other things, the current quality and playing time is read from the app and written in a log file.
 
 ### QoE Monitoring of the Native Android YouTube App
 **Goal of the app**
    - Implementation of a measurement concept on monitoring of application-layer key performance indicators of YouTube
    - Key performance indicators are chosen that have a high correlation with actual QoE of mobile users
+   
 **Basic functionalities**
    - Measurement of the native Google YouTube app
    - Monitoring of playback behavior of YouTube video streams
    - Automatic measuring procedure with adjustment of playback quality and measurement of different videos
    - Traffic measurement and setting of network conditions
+   
 **App description**
    - Android app based on Android Testing Support Library
    - Starts the native YouTube app within the wrapper app
