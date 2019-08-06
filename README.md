@@ -20,9 +20,11 @@ A measurement application to measure the native YouTube mobile app in Google Pla
 
 ### More information
    - [Documentation](https://raw.githubusercontent.com/lsinfo3/yomo-wrapperapp/master/Documentation.pdf)
+   
+<script async class="speakerdeck-embed" data-id="8a8dd531d1574907b73cb4d5edc310b7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Publications
-* Dataset: [QoE³](http://qoecube.informatik.uni-wuerzburg.de/)
+* Dataset: [QoE³ - A public dataset for YouTube's Mobile Streaming Client](http://qoecube.informatik.uni-wuerzburg.de/)
 * [Demo @ IEEE/IFIP NOMS 2018: QoE Monitoring of the Native Android YouTube App](https://www.bibsonomy.org/bibtex/28c37b15dc76f4351ea60e98e76bdacbc/uniwue_info3)
 * [Poster (PDF)](https://www.dropbox.com/s/sfvj3y5jmj8f4ks/DemoWrapperApp%20v1.0.pdf?dl=1)
 
