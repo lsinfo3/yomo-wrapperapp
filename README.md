@@ -20,8 +20,7 @@ A measurement application to measure the native YouTube mobile app in Google Pla
 
 ### More information
    - [Documentation](https://raw.githubusercontent.com/lsinfo3/yomo-wrapperapp/master/Documentation.pdf)
-   
-<script async class="speakerdeck-embed" data-id="8a8dd531d1574907b73cb4d5edc310b7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+   - [Slides @Speakerdeck](https://speakerdeck.com/userflo/a-public-dataset-for-youtubes-mobile-streaming-client)
 
 ### Publications
 * Dataset: [QoE³ - A public dataset for YouTube's Mobile Streaming Client](http://qoecube.informatik.uni-wuerzburg.de/)
