@@ -18,6 +18,9 @@ A measurement application to measure the native YouTube mobile app in Google Pla
    - Starts the native YouTube app within the wrapper app
    - uiautomator to detect window elements and streaming events such as playback progress, reading of stats-for-nerds
 
+### More information
+   - [Documentation](https://raw.githubusercontent.com/lsinfo3/yomo-wrapperapp/master/Documentation.pdf)
+
 ### Publications
 * Dataset: [QoE³](http://qoecube.informatik.uni-wuerzburg.de/)
 * [Demo @ IEEE/IFIP NOMS 2018: QoE Monitoring of the Native Android YouTube App](https://www.bibsonomy.org/bibtex/28c37b15dc76f4351ea60e98e76bdacbc/uniwue_info3)
