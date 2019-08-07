@@ -28,6 +28,5 @@ A measurement application to measure the native YouTube mobile app in Google Pla
 * [Poster (PDF)](https://www.dropbox.com/s/sfvj3y5jmj8f4ks/DemoWrapperApp%20v1.0.pdf?dl=1)
 
 
-University of Würzburg - Webpage: https://go.uniwue.de/videoqoe
-
+University of Würzburg - Webpage: https://go.uniwue.de/videoqoe  
 [Contact](http://www.comnet.informatik.uni-wuerzburg.de/en/staff/members/florian-wamser/)
